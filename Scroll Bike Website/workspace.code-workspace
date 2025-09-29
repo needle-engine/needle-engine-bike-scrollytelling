@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "name": "🌵 Needle Engine",
+      "path": "node_modules/@needle-tools/engine",
+      "@needle:managed": true
+    }
+  ],
+  "settings": {
+    "window.title": "Scroll Bike Website",
+    "files.exclude": {
+      "**/.DS_Store": true,
+      "**/*.meta": true
+    }
+  }
+}

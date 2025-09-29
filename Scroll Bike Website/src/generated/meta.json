@@ -1,0 +1,20 @@
+{
+  "sceneName": "Scroll Bike",
+  "meta": {
+    "title": "Needle Engine Scrollytelling Bike Demo",
+    "description": "Demo for Scrollfollow and ViewBox Components in Needle Engine 4.10. Visit https://needle.tools to get started",
+    "image": "include/screenshot.png"
+  },
+  "absolutePath": "https://localhost:3000",
+  "deployOnly": false,
+  "needleEditor": null,
+  "developmentBuild": false,
+  "generator": "Unity 6000.1.5f1, Needle Engine Integration @4.10.0-beta.8",
+  "allowHotReload": true,
+  "gzip": true,
+  "license": {
+    "team": "jg3twr0f7zgf"
+  },
+  "facebookInstantGames": null,
+  "useRapier": true
+}
