@@ -74,7 +74,7 @@ main {
     min-height: 200vh;
     transform: translateY(50px);
 
-    &.intro {
+    &.intro, & .outro {
         min-height: 100vh;
     }
     /* transition: opacity 0.8s ease-out, transform 0.8s ease-out; */
