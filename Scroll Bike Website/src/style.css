@@ -73,6 +73,10 @@ main {
     flex: 1;
     min-height: 200vh;
     transform: translateY(50px);
+
+    &.intro {
+        min-height: 100vh;
+    }
     /* transition: opacity 0.8s ease-out, transform 0.8s ease-out; */
     /* border: 8px dashed limegreen; */
     /* box-shadow: 0 1rem 1em rgba(0, 0, 0, .3);
