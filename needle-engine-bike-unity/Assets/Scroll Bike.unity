@@ -700,7 +700,7 @@ MonoBehaviour:
     title: Needle Engine Scrollytelling Bike Demo
     description: Demo for Scrollfollow and ViewBox Components in Needle Engine 4.10.
       Visit https://needle.tools to get started
-    image: {fileID: 2800000, guid: 3c342b2e2704f5548b1bedff26765aa9, type: 3}
+    image: {fileID: 2800000, guid: fa81a889b5fac8646bcb036cd01363d5, type: 3}
 --- !u!1 &1125205733
 GameObject:
   m_ObjectHideFlags: 0
@@ -1144,7 +1144,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0.009564828, y: -0.96026576, z: 0.03313925, w: 0.27694768}
   m_LocalPosition: {x: 4.006158, y: 1.5082477, z: 4.604471}
-  m_LocalScale: {x: 1.0000256, y: 0.99999994, z: 1.000004}
+  m_LocalScale: {x: 1.0000257, y: 0.99999994, z: 1.000004}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
