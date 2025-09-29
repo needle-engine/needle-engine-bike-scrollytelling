@@ -1,6 +1,6 @@
 # Needle Engine Scrollytelling Bike
 
-[Demo](https://scrollytelling-bike-z23hmxb2gnu5a.needle.run/) for Needle Engine's new Viewbox and ScrollFollow components.
+[Demo](https://scrollytelling-bike-z23hmxb2gnu5a.needle.run/) for Needle Engine's new [Viewbox](https://engine.needle.tools/docs/api/ViewBox) and [ScrollFollow](https://engine.needle.tools/docs/api/ScrollFollow) components.
 
 
 
