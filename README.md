@@ -2,6 +2,13 @@
 
 [Demo](https://scrollytelling-bike-z23hmxb2gnu5a.needle.run/) for Needle Engine's new Viewbox and ScrollFollow components.
 
+
+
+https://github.com/user-attachments/assets/e2252d57-97b5-4c0d-bca1-f8dd7cd868bf
+
+
+
+
 ## Project Structure
 
 - `needle-engine-bike-unity` - Unity project containing the 3D scene and assets.
