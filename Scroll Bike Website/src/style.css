@@ -58,7 +58,7 @@ needle-engine {
 main {
     display: flex;
     flex-direction: column;
-    pointer-events: none;
+    pointer-events: all;
 }
 
 .qr-code {
