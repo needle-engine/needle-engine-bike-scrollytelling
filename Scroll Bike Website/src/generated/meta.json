@@ -5,7 +5,7 @@
     "description": "Demo for Scrollfollow and ViewBox Components in Needle Engine 4.10. Visit https://needle.tools to get started",
     "image": "include/screenshot.png"
   },
-  "absolutePath": "https://localhost:3000",
+  "absolutePath": null,
   "deployOnly": false,
   "needleEditor": null,
   "developmentBuild": false,
