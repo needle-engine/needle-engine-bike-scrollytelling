@@ -8,7 +8,7 @@
     "build:production": "vite build -- --production"
   },
   "dependencies": {
-	  "@needle-tools/engine": "4.10.0",
+	  "@needle-tools/engine": "4.10.1",
 	  "three": "npm:@needle-tools/three@0.169.11"
 	},
   "devDependencies": {
