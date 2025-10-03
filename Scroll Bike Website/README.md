@@ -1,18 +1,14 @@
-# Scrollytelling Template
+# Bike Scrollytelling Example
 
-This is a basic scrollytelling template and can be used to kickstart creating amazing 3D websites with Needle.
-
-Checkout the [**live example**](https://scrollytelling-2-z23hmxby7c6x.needle.run/)
-
-[![](https://raw.githubusercontent.com/needle-tools/needle-engine-samples/main/package/Editor/Screenshots/Scrollytelling-2.jpg)](https://scrollytelling-2-z23hmxby7c6x.needle.run/)
+Live: https://scrollytelling-bike-z23hmxb2gnu5a.needle.run/
 
 ## Get started
 
 Run the template locally and run `npm i` and then `npm start`.   
 
-Then modify the content or connect it with your 3D editor like Unity or Blender to create new 3D content: It's super easy!
+To modify the animation or 3D scene open the Unity project in `needle-engine-bike-unity` (parent directory) that comes with this repository. In Unity you can click `Play` (you may need to login to your Needle Account if it's the first time) and the local server with this web project should start. You can then continue editing the animations or any of the content and see you website update when you save the Unity scene.
 
-Visit [docs.needle.tools](https://docs.needle.tools) to learn how.
+Visit [docs.needle.tools](https://docs.needle.tools) to learn more.
 
 ## Content
 
